@@ -5,7 +5,7 @@
 
 > **Analyzing 5,630 customer records to identify key churn drivers and deliver actionable retention strategies.**
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
@@ -64,7 +64,7 @@ Customer churn costs e-commerce companies significantly — acquiring a new cust
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/ecommerce-churn-analysis.git
+git clone https://github.com/deaalensa/ecommerce-churn-analysis.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn openpyxl jupyter
@@ -74,7 +74,7 @@ jupyter notebook notebook.ipynb
 ```
 
 Or open directly in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deaalensa/ecommerce-churn-analysis/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jir6YrNOZ6gD7oDmq2duvVJMbObxS1ML?usp=sharing)
 
 ---
 
